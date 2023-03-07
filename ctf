@@ -10,7 +10,7 @@ service ctf
     port            = 20000
     bind            = 0.0.0.0
     server          = /usr/bin/python3
-    server_args     = run.py
+    server_args     = /home/ctf/run.py
     per_source	    = 10 
     rlimit_cpu	    = 20 
 }

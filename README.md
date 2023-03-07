@@ -24,3 +24,10 @@ run exp:
 ```bash
 npx hardhat run --network localhost scripts/exp.js
 ```
+
+xinted:
+
+```bash
+cp ctf /etc/xinetd.d/
+/etc/init.d/xinetd restart
+```
