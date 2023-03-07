@@ -29,11 +29,6 @@ abi = contract["abi"]
 
 
 def conn_handler():
-    print(challangeName)
-    print("")
-    print("RPC: {}".format(config["rpc"]))
-    print("Faucet: {}".format(config["faucet"]))
-    print("\n")
     print("Option 1: Create New Contract")
     print("Option 2: Get Source Code")
     print("Option 3: Get flag by bet contract address")
