@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "crypto-js": "^4.1.1",
+    "toml": "^3.0.0"
+  }
+}

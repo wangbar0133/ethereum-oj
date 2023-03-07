@@ -1,0 +1,4 @@
+eth_account==0.5.9
+web3==5.31.1
+Crypto==1.4.1
+toml==0.10.2

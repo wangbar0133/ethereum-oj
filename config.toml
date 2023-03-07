@@ -1,0 +1,11 @@
+rpc="http://127.0.0.1:8545"
+faucet="http://127.0.0.1:8080/"
+
+name = "Challange"
+flag = "flag{You_Get_The_Flag}"
+
+filename = "challange.sol"
+dev-contract = "Challange"
+
+key = "000102030405060708090a0b0c0d0e0f"
+iv = "000102030405060708090a0b0c0d0e0f"
